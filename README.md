@@ -16,5 +16,6 @@
 ✅ **API-Based Backend** – Built using **Flask**, supporting multiple endpoints.  
 
 ---
+## 📂 Project Structure
 
 ![image](https://github.com/user-attachments/assets/e0e8e6f6-e5ed-4e00-b673-d100eb124033)
