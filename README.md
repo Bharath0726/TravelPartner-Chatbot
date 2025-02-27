@@ -27,29 +27,28 @@ Below are the snapshots of the API endpoints tested using **Postman**.
 
 ---
 ### 1️⃣ Home Endpoint (`GET /`)
-**📷 Snapshot:**  
-[Home Endpoint] 
+**📷 Snapshot:**  [Home Endpoint] 
 <img src="https://github.com/user-attachments/assets/cfd40c37-9c7c-4412-b165-30a797834f02" width="600"/>
 
 ---
 ### 2️⃣ Generate Travel Plan (`POST /travel-plan`)
-**📷 Snapshot:**  
-[Travel Plan Endpoint] ![image](https://github.com/user-attachments/assets/909680cc-e754-441c-b97e-f857597a04e6)
+**📷 Snapshot:**  [Travel Plan Endpoint] 
+<img src="https://github.com/user-attachments/assets/909680cc-e754-441c-b97e-f857597a04e6" width="600"/>
 
 ---
 ### 3️⃣ Save Travel Plan (`POST /save-plan`)
-**📷 Snapshot:**  
-[Save Plan Endpoint] ![image](https://github.com/user-attachments/assets/7ed16c5f-8db9-4b7d-80f2-05bc7d197f15)
+**📷 Snapshot:** [Save Plan Endpoint] 
+<img src="https://github.com/user-attachments/assets/7ed16c5f-8db9-4b7d-80f2-05bc7d197f15" width="600"/>
 
 ---
 ### 4️⃣ Add Event to Google Calendar (`POST /add-calendar`)
-**📷 Snapshot:**  
-[Calendar Integration] ![image](https://github.com/user-attachments/assets/bc8657a4-f5e4-44a0-ae16-3fd14019b301)
+**📷 Snapshot:**  [Calendar Integration] 
+<img src="https://github.com/user-attachments/assets/bc8657a4-f5e4-44a0-ae16-3fd14019b301" width="600"/>
 
 ---
 ### 5️⃣ Send Email with Travel Plan (`POST /send-email`)
-**📷 Snapshot:**  
-[Email Sending Endpoint] ![image](https://github.com/user-attachments/assets/5e2de36c-af3a-4d48-80f2-bfec92c4b90d)
+**📷 Snapshot:**  [Email Sending Endpoint] 
+<img src="https://github.com/user-attachments/assets/5e2de36c-af3a-4d48-80f2-bfec92c4b90d" width="600"/>
 
 ---
 ## 🎤 Voiceflow Workflow - Travel Genie
