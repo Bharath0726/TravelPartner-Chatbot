@@ -28,7 +28,8 @@ Below are the snapshots of the API endpoints tested using **Postman**.
 ---
 ### 1️⃣ Home Endpoint (`GET /`)
 **📷 Snapshot:**  
-[Home Endpoint] ![image](https://github.com/user-attachments/assets/cfd40c37-9c7c-4412-b165-30a797834f02)
+[Home Endpoint] 
+<img src="https://github.com/user-attachments/assets/cfd40c37-9c7c-4412-b165-30a797834f02" width="600"/>
 
 ---
 ### 2️⃣ Generate Travel Plan (`POST /travel-plan`)
