@@ -26,48 +26,28 @@
 Below are the snapshots of the API endpoints tested using **Postman**.
 
 ---
-
 ### 1️⃣ Home Endpoint (`GET /`)
-
 **📷 Snapshot:**  
-![Home Endpoint] ![image](https://github.com/user-attachments/assets/cfd40c37-9c7c-4412-b165-30a797834f02)
-
-
+[Home Endpoint] ![image](https://github.com/user-attachments/assets/cfd40c37-9c7c-4412-b165-30a797834f02)
 
 ---
-
 ### 2️⃣ Generate Travel Plan (`POST /travel-plan`)
-
 **📷 Snapshot:**  
-![Travel Plan Endpoint](path/to/travel_plan_endpoint.png)  <!-- Replace with actual image path -->
+![Travel Plan Endpoint] ![image](https://github.com/user-attachments/assets/909680cc-e754-441c-b97e-f857597a04e6)
 
 ---
-
 ### 3️⃣ Save Travel Plan (`POST /save-plan`)
-
 **📷 Snapshot:**  
-![Save Plan Endpoint](path/to/save_plan_endpoint.png)  <!-- Replace with actual image path -->
+![Save Plan Endpoint] ![image](https://github.com/user-attachments/assets/7ed16c5f-8db9-4b7d-80f2-05bc7d197f15)
 
 ---
-
 ### 4️⃣ Add Event to Google Calendar (`POST /add-calendar`)
-
 **📷 Snapshot:**  
-![Calendar Integration](path/to/calendar_endpoint.png)  <!-- Replace with actual image path -->
+![Calendar Integration] ![image](https://github.com/user-attachments/assets/bc8657a4-f5e4-44a0-ae16-3fd14019b301)
 
 ---
-
 ### 5️⃣ Send Email with Travel Plan (`POST /send-email`)
-
 **📷 Snapshot:**  
-![Email Sending Endpoint](path/to/email_endpoint.png)  <!-- Replace with actual image path -->
+![Email Sending Endpoint] ![image](https://github.com/user-attachments/assets/5e2de36c-af3a-4d48-80f2-bfec92c4b90d)
 
 ---
-
-## 📌 How to Add Snapshots?
-
-1. Run each API endpoint in **Postman** and **take a screenshot**.
-2. Save the images in your repository (e.g., `assets/` folder).
-3. Update the image paths in the `![Image Description](path/to/image.png)` placeholders.
-
-✅ **Example of Updating Image Path:**
