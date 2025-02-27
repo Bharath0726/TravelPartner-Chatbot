@@ -51,3 +51,12 @@ Below are the snapshots of the API endpoints tested using **Postman**.
 ![Email Sending Endpoint] ![image](https://github.com/user-attachments/assets/5e2de36c-af3a-4d48-80f2-bfec92c4b90d)
 
 ---
+## 🎤 Voiceflow Workflow - Travel Genie
+The **Voiceflow Workflow** illustrates how user interactions are processed through the Travel Genie system.
+
+### 🗺️ Workflow Diagram
+
+**📷 Snapshot:**  
+![Voiceflow Workflow] ![image](https://github.com/user-attachments/assets/b5ba4ad4-c363-4abc-b6ba-24ce1f5b3729)
+
+---
