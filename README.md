@@ -19,3 +19,54 @@
 ## 📂 Project Structure
 
 ![image](https://github.com/user-attachments/assets/e0e8e6f6-e5ed-4e00-b673-d100eb124033)
+
+
+## 📸 API Endpoints - Postman Snapshots
+
+Below are the snapshots of the API endpoints tested using **Postman**.
+
+---
+
+### 1️⃣ Home Endpoint (`GET /`)
+
+**📷 Snapshot:**  
+![Home Endpoint](![image](https://github.com/user-attachments/assets/9f526623-4d0f-4b23-9dfc-8286c1f6b4db))
+
+
+---
+
+### 2️⃣ Generate Travel Plan (`POST /travel-plan`)
+
+**📷 Snapshot:**  
+![Travel Plan Endpoint](path/to/travel_plan_endpoint.png)  <!-- Replace with actual image path -->
+
+---
+
+### 3️⃣ Save Travel Plan (`POST /save-plan`)
+
+**📷 Snapshot:**  
+![Save Plan Endpoint](path/to/save_plan_endpoint.png)  <!-- Replace with actual image path -->
+
+---
+
+### 4️⃣ Add Event to Google Calendar (`POST /add-calendar`)
+
+**📷 Snapshot:**  
+![Calendar Integration](path/to/calendar_endpoint.png)  <!-- Replace with actual image path -->
+
+---
+
+### 5️⃣ Send Email with Travel Plan (`POST /send-email`)
+
+**📷 Snapshot:**  
+![Email Sending Endpoint](path/to/email_endpoint.png)  <!-- Replace with actual image path -->
+
+---
+
+## 📌 How to Add Snapshots?
+
+1. Run each API endpoint in **Postman** and **take a screenshot**.
+2. Save the images in your repository (e.g., `assets/` folder).
+3. Update the image paths in the `![Image Description](path/to/image.png)` placeholders.
+
+✅ **Example of Updating Image Path:**
