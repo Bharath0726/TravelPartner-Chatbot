@@ -61,3 +61,13 @@ The **Voiceflow Workflow** illustrates how user interactions are processed throu
 <img src="https://github.com/user-attachments/assets/b5ba4ad4-c363-4abc-b6ba-24ce1f5b3729" width="600"/>
 
 ---
+
+## 🎥 End-to-End Project Demo
+
+Watch the complete **Travel Genie - AI-Powered Trip Planner** in action! This video demonstrates the full workflow, from **user input to AI-powered travel recommendations, Airtable integration, Google Calendar sync, and email notifications**.
+
+### 📌 Video Walkthrough:
+[Watch the Demo]
+
+[https://drive.google.com/file/d/181MlBBhPByjvHB8W-CtZZEl4W-bt-fwl/view?usp=drive_linkfor](url)
+---
