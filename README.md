@@ -57,7 +57,7 @@ The **Voiceflow Workflow** illustrates how user interactions are processed throu
 ### 🗺️ Workflow Diagram
 
 **📷 Snapshot:**  
-[Voiceflow Workflow] ![image](https://github.com/user-attachments/assets/b5ba4ad4-c363-4abc-b6ba-24ce1f5b3729)
+[Voiceflow Workflow]
 <img src="https://github.com/user-attachments/assets/b5ba4ad4-c363-4abc-b6ba-24ce1f5b3729" width="600"/>
 
 ---
