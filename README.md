@@ -69,5 +69,5 @@ Watch the complete **Travel Genie - AI-Powered Trip Planner** in action! This vi
 ### 📌 Video Walkthrough:
 [Watch the Demo]
 
-[https://drive.google.com/file/d/181MlBBhPByjvHB8W-CtZZEl4W-bt-fwl/view?usp=drive_linkfor](url)
+https://drive.google.com/file/d/181MlBBhPByjvHB8W-CtZZEl4W-bt-fwl/view?usp=drive_linkfor
 ---
