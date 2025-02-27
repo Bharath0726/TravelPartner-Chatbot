@@ -17,14 +17,4 @@
 
 ---
 
-📦 TravelGenie
- ┣ 📜 airtable_integration.py    # Handles saving data to Airtable
- ┣ 📜 calendar_integration.py    # Integrates with Google Calendar API
- ┣ 📜 config.py                  # Loads environment variables
- ┣ 📜 email_integration.py       # Handles email notifications
- ┣ 📜 main_main.py               # Flask API with various endpoints
- ┣ 📜 openai_integration.py      # Uses OpenAI to generate travel plans
- ┣ 📜 recommendation_integration.py # Fetches travel recommendations using OpenAI
- ┣ 📜 credentials.json           # Google API credentials (Do not expose publicly!)
- ┣ 📜 requirements.txt           # Required dependencies
- ┗ 📜 README.md                  # Project documentation
+![image](https://github.com/user-attachments/assets/e0e8e6f6-e5ed-4e00-b673-d100eb124033)
